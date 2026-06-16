@@ -1,0 +1,26 @@
+[
+  {
+    "gameName": "Farlight 84",
+    "packageName": "com.miraclegames.farlight84",
+    "imageUrl": "https://raw.githubusercontent.com/ssmd3119-maker/Bypass-modues/main/Farlight_84_icon.png",
+    "libUrl": "https://github.com/ssmd3119-maker/Bypass-modues/releases/download/Bypass-modues/libRevenyInjector.zip",
+    "libName": "libRevenyInjector.so",
+    "status": "online"
+  },
+  {
+    "gameName": "Blood Strike",
+    "packageName": "com.netease.newspike",
+    "imageUrl": "https://raw.githubusercontent.com/ssmd3119-maker/Bypass-modues/main/Blood_Strike_icon.png",
+    "libUrl": "https://github.com/ssmd3119-maker/Bypass-modues/releases/download/Bypass-modues/libnajmulRB.zip",
+    "libName": "libnajmulRB.so",
+    "status": "maintenance"
+  },
+  {
+    "gameName": "Delta Force",
+    "packageName": "com.proxima.dfm",
+    "imageUrl": "https://raw.githubusercontent.com/ssmd3119-maker/Bypass-modues/main/Delta_Force_icon.png",
+    "libUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/modules/libexample.zip",
+    "libName": "libdfm.so",
+    "status": "offline"
+  }
+]
